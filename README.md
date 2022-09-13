@@ -5,8 +5,8 @@ This is an online food menu service for HungerCaptain restaurants. These days, w
 
 ```
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
-Check out [FRONTEND LIVE DEMO](https://hungercaptainfrontend.herokuapp.com/) here!!
-Check out [API LIVE DEMO](https://hungercaptainbackend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-hc.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-hc.herokuapp.com/) here!!
 
 ## Tech used
 
@@ -17,7 +17,7 @@ Check out [API LIVE DEMO](https://hungercaptainbackend.herokuapp.com/) here!!
 
 ## How to Install
 
-1. Git Clone https://github.com/ShemiahA/hungercaptain.git
+1. Git Clone https://github.com/amb179/hungry-captain.git
 
 ```
 
