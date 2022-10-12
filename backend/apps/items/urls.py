@@ -1,6 +1,0 @@
-from django.urls import path
-from . import views
-
-urlpatterns = [
-    path('', views.Item_List.as_view(), name='item_list'),
-]
